@@ -13,7 +13,7 @@ import (
 )
 
 /*
-Generate 32 bytes of true, hardware-generated, as-good-as-it-gets,
+Random generates 32 bytes of true, hardware-generated, as-good-as-it-gets,
 finest-entropy randomness.
 */
 func Random() []byte {
