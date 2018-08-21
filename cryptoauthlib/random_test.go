@@ -1,4 +1,4 @@
-package secureelement_test
+package cryptoauthlib_test
 
 import (
 	"bytes"
