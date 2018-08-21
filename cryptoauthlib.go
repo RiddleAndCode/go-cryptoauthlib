@@ -4,7 +4,7 @@ finest-entropy randomness.
 */
 package cryptoauthlib
 
-//#cgo CFLAGS: -I../inc
+//#cgo CFLAGS: -I./inc
 //#cgo LDFLAGS: -lcryptoauth
 //#include "./wrapper.h"
 import "C"
