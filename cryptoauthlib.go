@@ -1,5 +1,3 @@
-//go:binary-only-package
-
 /*
 Generate 32 bytes of true, hardware-generated, as-good-as-it-gets,
 finest-entropy randomness.
