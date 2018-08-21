@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	element "github.com/riddleandcode/secure-element-sdk/golang/secureelement"
+	element "github.com/riddleandcode/go-cryptoauthlib"
 )
 
 func TestRandom(t *testing.T) {
