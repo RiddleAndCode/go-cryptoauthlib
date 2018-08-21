@@ -2,7 +2,7 @@
 Generate 32 bytes of true, hardware-generated, as-good-as-it-gets,
 finest-entropy randomness.
 */
-package secureelement
+package cryptoauthlib
 
 //#cgo CFLAGS: -I./inc
 //#cgo LDFLAGS: -lcryptoauth
